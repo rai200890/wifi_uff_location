@@ -1,0 +1,4 @@
+.vagrant/*
+wifi_uff_location_api/*
+wifi_uff_location_snmp_api/*
+wifi_uff_location_interface/*
